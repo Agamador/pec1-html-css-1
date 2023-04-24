@@ -1,0 +1,22 @@
+{
+  "name": "jerez-pec1",
+  "version": "1.0.0",
+  "description": "Sitio sobre Jerez de la frontera",
+  "source": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agamador/pec1-html-css-1.git"
+  },
+  "author": "Alejandro García Amador",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agamador/pec1-html-css-1/issues"
+  },
+  "homepage": "https://github.com/Agamador/pec1-html-css-1#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
